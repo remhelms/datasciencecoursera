@@ -1,5 +1,3 @@
-# datasciencecoursera
-Repository for the Course course on Data Science by John Hopkins University
 echo # datasciencecoursera >> README.md
 git init
 git add README.md
