@@ -1,6 +1,1 @@
-echo # datasciencecoursera >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/remhelms/datasciencecoursera.git
-git push -u origin master
+## This is a test repo for the Coursera Data Science specialization
